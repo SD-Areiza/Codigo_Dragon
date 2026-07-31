@@ -1,4 +1,4 @@
-public class DaniosCombate {
+public class DanosCombate {
     public static void main(String[] args) {
         int[] golpes = {12, 25, 8, 30, 15, 22};
 
@@ -14,4 +14,5 @@ public class DaniosCombate {
         System.out.println("Daño total: " + suma);
     }
 }
+
 

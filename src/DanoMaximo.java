@@ -1,4 +1,4 @@
-public class DanioMaximo {
+public class DanoMaximo {
     public static void main(String[] args) {
         int[] golpes = {12, 25, 8, 30, 15, 22};
 
@@ -16,4 +16,5 @@ public class DanioMaximo {
         System.out.println("Turno del golpe más fuerte: " + (posMax + 1));
     }
 }
+
 
